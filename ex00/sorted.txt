@@ -1,0 +1,7 @@
+next.config.js
+node_modules/
+package.json
+package_lock.json
+pages/
+public/
+styles/
